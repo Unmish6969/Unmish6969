@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Unmish Roy</h1>
-<h3 align="center">A Passionate Developer | Web3 & AI Enthusiast | Open Source Contributor</h3>
+<h3 align="center">A Passionate Developer | Web3 & AI Enthusiast </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=unmishroy&label=Profile%20views&color=0e75b6&style=flat" alt="unmishroy" />
@@ -11,7 +11,7 @@
 - 🌱 I’m diving deep into **Generative AI** and **Full-stack Development**
 - 🚀 Final Year Project: Building an **AI-powered Resume Analyzer** using MERN + OpenAI + Docker + AWS
 - 💡 Exploring projects in **Blockchain (Algorand)**, **AI for Web**, and **Cybersecurity Tools**
-- 📫 How to reach me: [unmishroy@gmail.com](mailto:unmishroy@gmail.com)
+- 📫 How to reach me: [unmish.roy.dev@gmail.com](mailto:unmish.roy.dev@gmail.com)
 
 ---
 
