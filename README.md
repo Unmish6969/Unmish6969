@@ -7,7 +7,7 @@
   <img src="https://komarev.com/ghpvc/?username=unmishroy&label=Profile%20views&color=0e75b6&style=flat" alt="unmishroy" />
 </p>
 
-- 🎓 I’m currently in my final year of **Computer Science Engineering**
+- 🎓 I’m currently in my final year of **Electronics and Communication Engineering**
 - 🌱 I’m diving deep into **Generative AI** and **Full-stack Development**
 - 🚀 Final Year Project: Building an **AI-powered Resume Analyzer** using MERN + OpenAI + Docker + AWS
 - 💡 Exploring projects in **Blockchain (Algorand)**, **AI for Web**, and **Cybersecurity Tools**
