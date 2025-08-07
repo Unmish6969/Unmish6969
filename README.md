@@ -41,8 +41,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=unmishroy&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=unmishroy&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=unmish6969&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=unmish6969&theme=radical" />
 </p>
 
 ---
