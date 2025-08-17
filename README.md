@@ -1,7 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Unmish%20Roy%20🚀&fontSize=60&fontAlignY=35)
 
-## Hi there 👋 
-<img src="./assets/github1.gif" alt="GitHub Animation 1" width="200" />
+## <img src="./assets/github1.gif" alt="GitHub Animation 1" width="40" /> Hi there 👋 
 
 <h1 align="center">
   Hi 👋, I'm Unmish Roy
