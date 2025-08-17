@@ -16,14 +16,12 @@
 </p>
 
 <!-- First GIF before "Hi there" -->
-<p align="center">
-  <img src="./assets/github1.gif" alt="GitHub Animation 1" height="60" width="60" />
-</p>
 
-## Hi there 👋
+
 
 <!-- Name with second GIF beside -->
 <h1 align="center">
+    <img src="./assets/github1.gif" alt="GitHub Animation 1" height="60" width="60" />
   Hi 👋, I'm Unmish Roy
   <img src="./assets/github2.gif" alt="GitHub Animation 2" width="60" height="60" />
 </h1>
