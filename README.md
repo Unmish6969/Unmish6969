@@ -9,18 +9,18 @@
 
 - 🎓 I’m currently in my final year of **Electronics and Communication Engineering**
 - 🌱 I’m diving deep into **Generative AI** and **Full-stack Development**
-- 🚀 Final Year Project: Building an **AI-powered Resume Analyzer** using MERN + OpenAI + Docker + AWS
-- 💡 Exploring projects in **Blockchain (Algorand)**, **AI for Web**, and **Cybersecurity Tools**
+<!-- - 🚀 Final Year Project: Building an **AI-powered Resume Analyzer** using MERN + OpenAI + Docker + AWS-->
+- 💡 Exploring projects in **Blockchain**, **AI for Web**, and **Agentic AI**
 - 📫 How to reach me: [unmish.roy.dev@gmail.com](mailto:unmish.roy.dev@gmail.com)
 
 ---
 
 ### 🚀 Tech Stack
 
-- 💻 Languages: `Python`, `JavaScript`, `C++`
+- 💻 Languages: `Python`, `JavaScript`, `C++`, `solidity`
 - 🌐 Web: `React.js`, `Node.js`, `Express.js`, `MongoDB`, `Next.js`
-- 🧠 AI/ML: `Scikit-learn`, `Pandas`, `OpenAI API`, `LLMs`
-- 🔗 Blockchain: `Algorand`, `Web3.js`, `IPFS`, `Smart Contracts`
+- 🧠 AI/ML: `Scikit-learn`, `Pandas`, `LLMs`,`Numpy`,`Matplotlib`,`Tensorflow`,`Langchain`
+- 🔗 Blockchain: `Algorand`, `IPFS`, `Smart Contracts`
 - 🛠️ Tools: `Git`, `Docker`, `Linux`, `Firebase`, `Postman`
 
 ---
@@ -30,12 +30,12 @@
 - 🔐 **Statuscode** – A decentralized file-sharing platform built on Web3  
   🔗 [GitHub](https://github.com/DipakKumarChauhan/Statuscode)
 
-- 🧠 **AI Resume Analyzer** – Smart tool to analyze resumes using GPT & score them dynamically  
-  🔗 *(Private repo / coming soon)*
-
-- 🕵️‍♂️ **Cyber Triage Tool** – Parses system logs into CSVs and detects malicious activity  
-  🔗 *(In progress)*
-
+- 🧠 **AI Virtual Assistant with Voice Command Integration** – An AI multilingual Virtual Assistant 
+ 🔗 [GitHub](https://github.com/Unmish6969/Virtual-Assistant.git)
+ 
+- 🕵️‍♂️ **Anomaly Detection in Epilepsy Using EEG Signals** – Designed and implemented a deep learning pipeline using 1D CNN, LSTM, and GRU models to classify epileptic
+episodes with 97% accuracy. 
+  🔗 [GitHub](https://github.com/hellspit/Anomaly-Detection-in-EEG-Signals-for-Epilepsy-prediction.git)
 ---
 
 ### 📊 GitHub Stats
