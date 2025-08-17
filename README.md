@@ -77,10 +77,10 @@ episodes with 97% accuracy.
 ### 📫 Let’s Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/unmish-roy/" target="_blank">
+  <a href="https://www.linkedin.com/in/unmish-roy-b10710311/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:unmishroy@gmail.com">
+  <a href="mailto:royunmish2@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
