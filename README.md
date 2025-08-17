@@ -1,10 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Unmish%20Roy%20🚀&fontSize=60&fontAlignY=35)
 
+![GitHub Animation 1](./assets/github1.gif)
 
-![GitHub Animation 1](./assets/github1.gif)## Hi there 👋
+## Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Unmish Roy</h1> 
+
 ![GitHub Animation 2](./assets/github2.gif)
+
 <h3 align="center">A Passionate Developer | Web3 & AI Enthusiast </h3>
 
 <p align="center">
