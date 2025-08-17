@@ -2,7 +2,7 @@
 
 
 ## Hi there 👋
-
+![GitHub Animation 1](./assets/github1.gif)
 <h1 align="center">Hi 👋, I'm Unmish Roy</h1>
 <h3 align="center">A Passionate Developer | Web3 & AI Enthusiast </h3>
 
