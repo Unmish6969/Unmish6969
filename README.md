@@ -30,7 +30,7 @@
 
 <!-- Left text with right GIF -->
 <p>
-  <img align="right" alt="Coding Monkey" width="400" src="./assets/github7.gif" />
+  <img align="right" alt="Coding Monkey" height="400" width="400" src="./assets/github7.gif" />
 
 - 🎓 I’m currently in my final year of **Electronics and Communication Engineering**  
 - 🌱 I’m diving deep into **Generative AI** and **Full-stack Development**  
