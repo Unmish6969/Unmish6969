@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Unmish%20Roy%20🚀&fontSize=60&fontAlignY=35)
+<!--![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Unmish%20Roy%20🚀&fontSize=60&fontAlignY=35)
 
 ## <img src="./assets/github1.gif" alt="GitHub Animation 1" width="40" /> Hi there 👋 
 
@@ -6,7 +6,27 @@
   Hi 👋, I'm Unmish Roy
   <img src="./assets/github2.gif" alt="GitHub Animation 2" width="50" />
 </h1>
+-->
+<!-- Capsule waving header -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header)
 
+<!-- Custom image -->
+<p align="center">
+  <img src="./assets/github3.jpg" alt="Profile Banner" width="250" />
+</p>
+
+<!-- First GIF before "Hi there" -->
+<p align="center">
+  <img src="./assets/github1.gif" alt="GitHub Animation 1" width="400" />
+</p>
+
+## Hi there 👋
+
+<!-- Name with second GIF beside -->
+<h1 align="center">
+  Hi 👋, I'm Unmish Roy
+  <img src="./assets/github2.gif" alt="GitHub Animation 2" width="60" height="60" />
+</h1>
 
 
 <h3 align="center">A Passionate Developer | Web3 & AI Enthusiast </h3>
