@@ -8,16 +8,16 @@
 </h1>
 -->
 <!-- Capsule waving header -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header)
+
 
 <!-- Custom image -->
 <p align="center">
-  <img src="./assets/github3.jpg" alt="Profile Banner" width="250" />
+  <img src="./assets/github3.jpg" alt="Header Banner" width="100%" />
 </p>
 
 <!-- First GIF before "Hi there" -->
 <p align="center">
-  <img src="./assets/github1.gif" alt="GitHub Animation 1" width="400" />
+  <img src="./assets/github1.gif" alt="GitHub Animation 1" height="60" width="60" />
 </p>
 
 ## Hi there 👋
