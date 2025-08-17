@@ -4,9 +4,11 @@
 
 ## Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Unmish Roy</h1> 
+<h1 align="center">
+  Hi 👋, I'm Unmish Roy
+  <img src="./assets/github2.gif" alt="GitHub Animation 2" width="50" />
+</h1>
 
-![GitHub Animation 2](./assets/github2.gif)
 
 <h3 align="center">A Passionate Developer | Web3 & AI Enthusiast </h3>
 
