@@ -15,17 +15,12 @@
   <img src="./assets/github3.jpg" alt="Header Banner" width="100%" />
 </p>
 
-<!-- First GIF before "Hi there" -->
-
-
-
-<!-- Name with second GIF beside -->
+<!-- Name with GIFs -->
 <h1 align="center">
     <img src="./assets/github1.gif" alt="GitHub Animation 1" height="60" width="60" />
   Hi 👋, I'm Unmish Roy
   <img src="./assets/github2.gif" alt="GitHub Animation 2" width="60" height="60" />
 </h1>
-
 
 <h3 align="center">“Writing code is easy, naming variables is hard, and explaining your code six months later is impossible.” 🤯 </h3>
 
@@ -33,19 +28,24 @@
   <img src="https://komarev.com/ghpvc/?username=unmishroy&label=Profile%20views&color=0e75b6&style=flat" alt="unmishroy" />
 </p>
 
-- 🎓 I’m currently in my final year of **Electronics and Communication Engineering**
-- 🌱 I’m diving deep into **Generative AI** and **Full-stack Development**
-<!-- - 🚀 Final Year Project: Building an **AI-powered Resume Analyzer** using MERN + OpenAI + Docker + AWS-->
-- 💡 Exploring projects in **Blockchain**, **AI for Web**, and **Agentic AI**
-- 📫 How to reach me: [unmish.roy.dev@gmail.com](mailto:unmish.roy.dev@gmail.com)
+<!-- Left text with right GIF -->
+<p>
+  <img align="right" alt="Coding Monkey" width="300" src="./assets/github7.gif" />
+
+- 🎓 I’m currently in my final year of **Electronics and Communication Engineering**  
+- 🌱 I’m diving deep into **Generative AI** and **Full-stack Development**  
+<!-- - 🚀 Final Year Project: Building an **AI-powered Resume Analyzer** using MERN + OpenAI + Docker + AWS-->  
+- 💡 Exploring projects in **Blockchain**, **AI for Web**, and **Agentic AI**  
+- 📫 How to reach me: [unmish.roy.dev@gmail.com](mailto:unmish.roy.dev@gmail.com)  
+</p>
 
 ---
 
 ### 🚀 Tech Stack
 
-- 💻 Languages: `Python`, `JavaScript`, `C++`, `solidity`
+- 💻 Languages: `Python`, `JavaScript`, `C++`, `Solidity`
 - 🌐 Web: `React.js`, `Node.js`, `Express.js`, `MongoDB`, `Next.js`
-- 🧠 AI/ML: `Scikit-learn`, `Pandas`, `LLMs`,`Numpy`,`Matplotlib`,`Tensorflow`,`Langchain`
+- 🧠 AI/ML: `Scikit-learn`, `Pandas`, `LLMs`, `Numpy`, `Matplotlib`, `Tensorflow`, `Langchain`
 - 🔗 Blockchain: `Algorand`, `IPFS`, `Smart Contracts`
 - 🛠️ Tools: `Git`, `Docker`, `Linux`, `Firebase`, `Postman`
 
@@ -56,12 +56,13 @@
 - 🔐 **Statuscode** – A decentralized file-sharing platform built on Web3  
   🔗 [GitHub](https://github.com/DipakKumarChauhan/Statuscode)
 
-- 🧠 **AI Virtual Assistant with Voice Command Integration** – An AI multilingual Virtual Assistant 
+- 🧠 **AI Virtual Assistant with Voice Command Integration** – An AI multilingual Virtual Assistant  
  🔗 [GitHub](https://github.com/Unmish6969/Virtual-Assistant.git)
- 
+
 - 🕵️‍♂️ **Anomaly Detection in Epilepsy Using EEG Signals** – Designed and implemented a deep learning pipeline using 1D CNN, LSTM, and GRU models to classify epileptic
-episodes with 97% accuracy. 
+episodes with 97% accuracy.  
   🔗 [GitHub](https://github.com/hellspit/Anomaly-Detection-in-EEG-Signals-for-Epilepsy-prediction.git)
+
 ---
 
 ### 📊 GitHub Stats
@@ -87,6 +88,7 @@ episodes with 97% accuracy.
 ---
 
 *Crafted with ❤️ by Unmish Roy*
+
 <!--
 **Unmish6969/Unmish6969** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
