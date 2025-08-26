@@ -36,7 +36,7 @@
 - 🌱 I’m diving deep into **Generative AI** and **Full-stack Development**  
 <!-- - 🚀 Final Year Project: Building an **AI-powered Resume Analyzer** using MERN + OpenAI + Docker + AWS-->  
 - 💡 Exploring projects in **Blockchain**, **AI for Web**, and **Agentic AI**  
-- 📫 How to reach me: [unmish.roy.dev@gmail.com](mailto:unmish.roy.dev@gmail.com)  
+- 📫 How to reach me: [royunmish2@gmail.com](mailto:royunmish2@gmail.com)  
 </p>
 
 ---
