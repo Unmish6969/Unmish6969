@@ -12,7 +12,7 @@
 
 <!-- Custom image -->
 <p align="center">
-  <img src="./assets/github3.jpg" alt="Header Banner" width="100%" />
+  <img src="./assets/github4.gif" alt="Header Banner" width="100%" />
 </p>
 
 <!-- Name with GIFs -->
